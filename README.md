@@ -1,4 +1,5 @@
-PublicComputer
+PrecKer.
 ==============
+PrecompileKernel
 
-Wake my PC on distant and get it working with my Pi
+Compile new working kernel for my raspberry pi and then for my netbook Acer Aspire one.
